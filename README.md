@@ -1,6 +1,6 @@
 # Track & Retrieve
 
-Track & Retrieve is a user-friendly platform for posting and finding lost or found items. With a clean interface and intuitive features, the platform connects individuals to help locate missing belongings.
+Track & Retrieve is an innovative and user-friendly platform designed to streamline the process of reporting and recovering lost or found items. With an intuitive interface and powerful search capabilities, it enables users to quickly post details about misplaced belongings and connect with others who may have found them. The platform fosters a community-driven approach to lost-and-found management, ensuring a seamless and efficient experience for both individuals and organizations. Whether it's a misplaced phone, a lost wallet, or a cherished personal item, Track & Retrieve makes it easier to reunite owners with their belongings.
 
 ## Purpose
 
